@@ -2,10 +2,10 @@
  Artificial intelligence Student at Princess Noura Bint Abdulrahman University 
 
 - 👀 I’m interested in :
- Interested in AI, coding ( java, python) , robots, creating content and teaching Technology 
+ AI, coding ( java, python) , robots, creating content and teaching Technology 
  
 - 🌱 I’m currently learning :
- AI - algorathim - java and python
+ AI - algorathims - java and python
  
 - 💞️ I’m looking to collaborate on :
  java devalpers and learn python 
