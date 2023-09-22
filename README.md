@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Renad-CAI 
+- 👋 Hi, I’m @Renad-AI 
  Artificial intelligence Student at Princess Noura Bint Abdulrahman University 
 
 - 👀 I’m interested in :
